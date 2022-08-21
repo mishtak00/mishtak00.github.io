@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.52ef1d97.chunk.css",
+    "main.js": "/static/js/main.c8978164.chunk.js",
+    "main.js.map": "/static/js/main.c8978164.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3374ac37.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3374ac37.js.map",
+    "static/js/2.e7a90cf1.chunk.js": "/static/js/2.e7a90cf1.chunk.js",
+    "static/js/2.e7a90cf1.chunk.js.map": "/static/js/2.e7a90cf1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d818d8ce590d2e2448cb839b173d701d.js": "/precache-manifest.d818d8ce590d2e2448cb839b173d701d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.52ef1d97.chunk.css.map": "/static/css/main.52ef1d97.chunk.css.map",
+    "static/js/2.e7a90cf1.chunk.js.LICENSE.txt": "/static/js/2.e7a90cf1.chunk.js.LICENSE.txt",
+    "static/media/beach.jpeg": "/static/media/beach.500dcf9f.jpeg",
+    "static/media/berlin.jpeg": "/static/media/berlin.6b083793.jpeg",
+    "static/media/bitmoji.jpeg": "/static/media/bitmoji.1976fdaf.jpeg",
+    "static/media/centerfinder.png": "/static/media/centerfinder.eb9e0c55.png",
+    "static/media/contactchain.png": "/static/media/contactchain.b0dc2f12.png",
+    "static/media/correlator.png": "/static/media/correlator.6cfec198.png",
+    "static/media/dimensions.png": "/static/media/dimensions.dbcf348e.png",
+    "static/media/genome1.png": "/static/media/genome1.408aee9f.png",
+    "static/media/gm-icon.png": "/static/media/gm-icon.fb537416.png",
+    "static/media/malloc.png": "/static/media/malloc.93700ac3.png",
+    "static/media/map1.png": "/static/media/map1.55d86607.png",
+    "static/media/metrics.png": "/static/media/metrics.b7e9a035.png",
+    "static/media/professional.jpeg": "/static/media/professional.5b905d9a.jpeg",
+    "static/media/profile.jpeg": "/static/media/profile.0c6272d3.jpeg",
+    "static/media/qparser.png": "/static/media/qparser.c09d7ce6.png",
+    "static/media/qsim0.png": "/static/media/qsim0.fb4d3e60.png",
+    "static/media/this.png": "/static/media/this.b1eb7ef8.png",
+    "static/media/wun.png": "/static/media/wun.3c6b0469.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3374ac37.js",
+    "static/js/2.e7a90cf1.chunk.js",
+    "static/css/main.52ef1d97.chunk.css",
+    "static/js/main.c8978164.chunk.js"
+  ]
+}
